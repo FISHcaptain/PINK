@@ -1,3 +1,5 @@
 PINK/.vs
 PINK/Debug
 PINK/x64
+*/build/*
+build/*
